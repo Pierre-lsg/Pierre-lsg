@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pierre-lsg
 - 👀 I’m interested in sharing knowledge on computer science
-- 🌱 Previous I was learning symfony framework. The future is selfhosted apps on pur phones 
+- 🌱 Previous I was learning symfony framework. The future is selfhosted apps on our phones 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
